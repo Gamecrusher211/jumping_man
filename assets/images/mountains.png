@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <polygon points="0,600 0,400 150,250 300,400 450,300 600,450 750,350 800,400 800,600" style="fill:grey;stroke:black;stroke-width:1" />
+</svg> 

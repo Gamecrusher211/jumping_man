@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+    <rect x="50" y="400" width="20" height="100" style="fill:brown;stroke:black;stroke-width:1" />
+    <polygon points="40,400 100,400 70,300" style="fill:green;stroke:black;stroke-width:1" />
+    <rect x="200" y="420" width="20" height="80" style="fill:brown;stroke:black;stroke-width:1" />
+    <polygon points="190,420 250,420 220,320" style="fill:green;stroke:black;stroke-width:1" />
+    <rect x="350" y="400" width="20" height="100" style="fill:brown;stroke:black;stroke-width:1" />
+    <polygon points="340,400 400,400 370,300" style="fill:green;stroke:black;stroke-width:1" />
+    <rect x="500" y="420" width="20" height="80" style="fill:brown;stroke:black;stroke-width:1" />
+    <polygon points="490,420 550,420 520,320" style="fill:green;stroke:black;stroke-width:1" />
+    <rect x="650" y="400" width="20" height="100" style="fill:brown;stroke:black;stroke-width:1" />
+    <polygon points="640,400 700,400 670,300" style="fill:green;stroke:black;stroke-width:1" />
+</svg> 
